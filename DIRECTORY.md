@@ -2,7 +2,7 @@
 
 ## [Catppuccin](https://github.com/Mason-17/wallpapers/tree/main/catppuccin)
 ----------
-## [Halo](https://github.com/Mason-17/wallpapers/tree/main/main/halo)
+## [Halo](https://github.com/Mason-17/wallpapers/tree/main/halo)
 ----------
 ## [Sonic](https://github.com/Mason-17/wallpapers/tree/main/sonic)
 ----------
