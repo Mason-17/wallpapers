@@ -2,6 +2,8 @@
 
 ## [Catppuccin](https://github.com/Mason-17/wallpapers/tree/main/catppuccin)
 ----------
+## [Abstract](https://github.com/Mason-17/wallpapers/tree/main/abstract)
+----------
 ## [Halo](https://github.com/Mason-17/wallpapers/tree/main/halo)
 ----------
 ## [Sonic](https://github.com/Mason-17/wallpapers/tree/main/sonic)
