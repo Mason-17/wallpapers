@@ -9,5 +9,5 @@ sha512sums=("SKIP")
 package() {
 	mkdir -p "${pkgdir}/home/$USER/Pictures/Backgrounds"
 	cp "${srcdir}/mo.jpg" "${pkgdir}/home/$USER/Pictures/Backgrounds"
-	chmod 755 "${pkgdir}/home/$USER/Pictures/Backgrounds/mo.jpg"
+	chmod 700 "${pkgdir}/home/$USER/Pictures/Backgrounds/mo.jpg"
 }

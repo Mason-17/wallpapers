@@ -1,0 +1,14 @@
+pkgname="anime-wallpapers"
+pkgver="1.0.0"
+pkgrel="1"
+pkgdesc="Anime wallpaper pack, installable with pacman!"
+arch=("x86_64")
+url="https://github.com/Mason-17/wallpapers"
+license=("custom")
+source=("mo.jpg")
+sha512sums=("SKIP")
+package() {
+	mkdir -p "${pkgdir}/home/$USER/Pictures/Backgrounds"
+	cp "${srcdir}/mo.jpg" "${pkgdir}/home/$USER/Pictures/Backgrounds"
+	chmod 755 "${pkgdir}/home/$USER/Pictures/Backgrounds/mo.jpg"
+}
