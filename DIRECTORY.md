@@ -2,6 +2,8 @@
 
 ## [Catppuccin](https://github.com/Mason-17/wallpapers/tree/main/catppuccin)
 ----------
+## [Anime](https://github.com/Mason-17/wallpapers/tree/main/anime)
+----------
 ## [Gruvbox](https://github.com/Mason-17/wallpapers/tree/main/gruvbox)
 ----------
 ## [Abstract](https://github.com/Mason-17/wallpapers/tree/main/abstract)
@@ -20,4 +22,3 @@
 ----------
 ## [Dragons](https://github.com/Mason-17/wallpapers/tree/main/dragons)
 ----------
-## [Miscellaneous](https://github.com/Mason-17/wallpapers/tree/main/misc)
